@@ -1,5 +1,4 @@
-import { createApp } from 'vue'
-import App from './App.vue'
-import g6 from '@antv/g6'
+import { createApp } from 'vue';
+import App from './App.vue';
 
-createApp(App).mount('#app')
+createApp(App).mount('#app');

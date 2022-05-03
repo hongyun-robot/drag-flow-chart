@@ -20,5 +20,8 @@ module.exports = {
   rules: {
     'import/prefer-default-export': 0,
     'linebreak-style': 0,
+    'import/extensions': 0,
+    'import/no-unresolved': 0,
+    'vue/no-multiple-template-root': 0,
   },
 };
